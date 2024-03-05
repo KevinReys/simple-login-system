@@ -1,30 +1,30 @@
-# Sistema de Login Simples
-Este é um exemplo de um sistema de login simples usando HTML, CSS e JavaScript. O sistema consiste em uma página HTML com campos para inserir um nome de usuário e senha, juntamente com um botão de login. 
-Um script JavaScript é usado para verificar as credenciais fornecidas pelo usuário e exibir uma mensagem de sucesso ou erro.
+# Simple Login System
+This is an example of a simple login system using HTML, CSS, and JavaScript. The system consists of an HTML page with fields to enter a username and password, along with a login button.
+A JavaScript script is used to verify the credentials provided by the user and display a success or error message.
 
-## Arquivos do Projeto
-- **index.html**: Este é o arquivo HTML principal que contém a estrutura da página de login, incluindo os campos de entrada para nome de usuário e senha, o botão de login e a mensagem de feedback.
-- **styles.css**: Este arquivo contém as regras de estilo CSS para a página HTML, como formatação de texto, posicionamento de elementos e estilo de botão.
-- **script.js**: Este arquivo contém o código JavaScript responsável pela validação das credenciais do usuário e pela exibição de mensagens de feedback.
+## Project Files
+- **index.html:** This is the main HTML file that contains the structure of the login page, including input fields for username and password, the login button, and the feedback message.
+- **styles.css:** This file contains CSS styling rules for the HTML page, such as text formatting, element positioning, and button styling.
+- **script.js:** This file contains the JavaScript code responsible for validating user credentials and displaying feedback messages.
 
-## Funcionalidades
-- **Login de Usuário**: Os usuários podem inserir seu nome de usuário e senha nos campos correspondentes e clicar no botão "Login" para tentar fazer login.
-- **Validação de Credenciais**: O script JavaScript valida as credenciais fornecidas pelo usuário. Se o nome de usuário e a senha estiverem corretos, uma mensagem de sucesso é exibida.
-Caso contrário, uma mensagem de erro é exibida.
+## Features
+- **User Login:** Users can enter their username and password in the corresponding fields and click the "Login" button to attempt login.
+- **Credential Validation:** The JavaScript script validates the credentials provided by the user. If the username and password are correct, a success message is displayed.
+Otherwise, an error message is displayed.
 
-## Como Usar
-1. Baixe os arquivos do projeto para o seu computador.
-2. Abra o arquivo `index.html` em um navegador da web.
-3. Insira um nome de usuário e senha nos campos apropriados.
-4. Clique no botão "Login" para tentar fazer login.
-5. Você verá uma mensagem indicando se o login foi bem-sucedido ou não.
+## How to Use
+1. Download the project files to your computer.
+2. Open the `index.html` file in a web browser.
+3. Enter a username and password in the appropriate fields.
+4. Click the "Login" button to attempt login.
+5. You will see a message indicating whether the login was successful or not.
 
-## Personalização
-Você pode personalizar este sistema de login de várias maneiras, incluindo:
-- Adicionando campos adicionais de entrada, como email.
-- Implementando funcionalidades de recuperação de senha.
-- Estilizando a página de login de acordo com as necessidades da sua aplicação.
+## Customization
+You can customize this login system in various ways, including:
+- Adding additional input fields, such as email.
+- Implementing password recovery functionalities.
+- Styling the login page according to your application's needs.
 
-## Autor
-Este projeto foi desenvolvido por Kevin Reys.
+## Author
+This project was developed by Kevin Reys.
 
